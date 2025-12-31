@@ -1,1 +1,1 @@
-# -NASP---Randomizirani-algoritmi-sortiranja
+# [NASP] - Randomizirani-algoritmi-sortiranja
